@@ -10,3 +10,5 @@ Ihr akzeptiert damit, dass ihr Schäden oder das Umstellen von Dateien auf euren
 
 Das ganze Programm ist auf Deutsch geschrieben!
 Bei Problemen oder Bugs etc. Bitte an mir wenden!
+
+WICHTIG: Bitte nur auf dem Desktop als Administrator ausführen!
